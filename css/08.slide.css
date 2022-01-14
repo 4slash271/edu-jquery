@@ -31,3 +31,15 @@
   width: 100%;
   z-index: 1;
 }
+.pager-wrapper {
+  text-align: center;
+  margin: 0.5em 0;
+}
+.pager-wrapper > .pager {
+  margin: 0.25em;
+  color: #bbb;
+  cursor: pointer;
+}
+.pager-wrapper > .pager.active {
+  color: #445566;
+}
