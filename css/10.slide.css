@@ -5,7 +5,7 @@
 .slide-stage {
   position: relative;
   border: 5px solid black;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .bt-angle {
   font-size: 6em;
